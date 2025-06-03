@@ -1,6 +1,6 @@
 //Aluna: Leila Martins Nunes Barcellos
 //Matrícula: 202503772843
-//Polo: Polo: POLO VILARINHO VN - BELO HORIZONTE
+//Polo: POLO VILARINHO VN - BELO HORIZONTE
 //1º Semestre do Curso Análise e Desenvolvimento De Sistemas
 
 #include <stdio.h>
